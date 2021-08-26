@@ -1,0 +1,10 @@
+Nous avons besoin d'implémenter une IA sur l'application mobile de notre projet ESP 
+Donc je me suis former en regardant quelque vidéos et articles
+et je devais redesigner l'application voici les liens:
+
+https://www.youtube.com/watch?v=6kaEbTfb444
+https://www.youtube.com/watch?v=oJonKn6vYts
+https://www.youtube.com/results?search_query=flutter+with+AI
+https://codecarbon.com/integrate-artificial-intelligence-flutter-applications/
+https://www.youtube.com/watch?v=3TWf3LwJXoM
+https://flutterdevs.com/blog/machine-learning-in-flutter/
